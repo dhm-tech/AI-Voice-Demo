@@ -72,10 +72,6 @@ OPENAI_API_KEY=your_api_key_here
 # 4) Run the demo
 python main.py
 ```
----
-
-# 📸 voice Test
-![Preview](sample-audio/Audio-test.m4a)
 
 ---
 ## 👤 Author
