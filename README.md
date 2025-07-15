@@ -66,14 +66,18 @@ cd ai-voice-demo
 pip install -r requirements.txt
 
 # 3) Add your API key
-# Add youre API Keys
-# OPENAI_API_KEY=your_api_key_here
+Add youre API Keys
+OPENAI_API_KEY=your_api_key_here
 
 # 4) Run the demo
 python main.py
 ```
 ---
 
+# 📸 voice Test
+![Preview](sample-audio/Audio-test.m4a)
+
+---
 ## 👤 Author
 > Designed by: [Abdulrahman Qutah]  
 > Date: [16 Jul 2025]
