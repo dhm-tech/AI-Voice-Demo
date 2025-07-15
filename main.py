@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 
 # OpenAI API key
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key = "OPENAI_API_KEY_HERE")
 
 
 # Speech to text
